@@ -1,0 +1,21 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Notebook runtime state
+.ipynb_checkpoints/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Common temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
